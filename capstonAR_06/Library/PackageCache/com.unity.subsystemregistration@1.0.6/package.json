@@ -1,18 +1,3 @@
-{
-  "name": "com.unity.subsystemregistration",
-  "displayName": "Subsystem Registration",
-  "version": "1.0.6",
-  "unity": "2018.3",
-  "description": "Provides internal registration mechanism for standalone subsystems.  It allows a standalone subsystem to inform the Subsystem Manager of its existence.",
-  "keywords": [
-    "subsystem",
-    "registration",
-    "internal"
-  ],
-  "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.subsystemregistration.git",
-    "revision": "0b4157c6c0a160c51e74ead305aee77e6f29527d"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:621ece32d9f22caac2893e522bfec2173fbfefcb54b9b9ba22e20f885dba98e4
+size 594
